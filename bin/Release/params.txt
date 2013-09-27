@@ -1,0 +1,5 @@
+/home/glup/sources
+/home/glup/export
+/home/glup/sdk
+5000
+

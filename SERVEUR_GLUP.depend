@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1305031111 source:/home/joachim/serveur_glup/SERVEUR_GLUP/main.c
+	<stdio.h>
+	<stdarg.h>
+	<syslog.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<pthread.h>
+	<fcntl.h>
+	<unistd.h>
+	<signal.h>
+	<string.h>
+	<netinet/in.h>
+	<unistd.h>
+	<sys/socket.h>
+	<sys/wait.h>
+	<string.h>
+
